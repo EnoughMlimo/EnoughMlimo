@@ -2,13 +2,12 @@
 
 Welcome to my GitHub profile! I'm Enough Mlimo, a passionate Business Analyst and Data Analyst with a growing focus on building AI-powered tools and impactful data solutions.
 
-### 🔭 I’m currently working on:
-- 🎓 A capstone project titled **“MindCare AI – Mental Health Companion”** that uses GPT, speech recognition, and data analytics to support mental wellness.
-- 📊 A **Custom Content Generator** for marketing teams using AI to create tailored Apple product descriptions.
-- 🧠 An **AI Study Buddy** chatbot with domain-specific knowledge for high school learners using Retrieval-Augmented Generation (RAG).
+### 🔭 I worked on:
+- 🎓 A capstone project titled **“SafeSpace”** that uses Gemini, Instantly report incidents, get live analysis, and find support using the power of your voice and our intelligent AI. We're here to listen and help, 24/7..
+- 📊 A **Custom Content Generator** for content generator using Google AI Studio and Gemini models to create educational content with custom AI prompts.
 - 🌐 Personal portfolio website to showcase my projects and professional skills.
 
-### 🌱 I’m currently learning:
+### 🌱 I learnt about:
 - Advanced AI technologies (Generative AI, RAG, and speech-to-text APIs)
 - React and web development with Tailwind CSS
 - Prompt engineering for Google Gemini and OpenAI models
